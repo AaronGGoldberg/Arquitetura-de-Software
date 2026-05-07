@@ -1,0 +1,1 @@
+# pacote de handlers com responsabilidade única

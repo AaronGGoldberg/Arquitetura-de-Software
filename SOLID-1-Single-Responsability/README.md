@@ -1,5 +1,9 @@
 # SOLID 1 - Single Responsibility (Responsabilidade Única)
 
+Alunos:
+Aaron Guerra Goldberg
+Ramon Couto Santos
+
 ## Objetivo da refatoração
 
 Esta refatoração separa as responsabilidades que estavam concentradas em `app/views.py`.
